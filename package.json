@@ -1,0 +1,19 @@
+{
+  "name": "preetham-my-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Preetham M S",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "finance"
+  ],
+  "author": "Preetham M S",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
